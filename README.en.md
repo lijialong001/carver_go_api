@@ -1,17 +1,15 @@
 # carverGo
 
 #### Description
-{**When you're done, you can delete the content in this README and update the file with details for others getting started with your repository**}
+No framework was used to write backend interface functions, including user login, testing interfaces, etc
 
 #### Software Architecture
-Software architecture description
+Golang
 
 
 #### Instructions
+Convenient to write backend interfaces separately
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
 
 #### Contribution
 
